@@ -62,6 +62,10 @@ gomobile bind -target=android/amd64 hello
 - （代码内已有）在项目中调用即可
 - 编译、安装、运行，你将可以看到 `Hello, williamfzc!` 字样出现
 
+### 刷新 `.aar`
+
+点击 `Invalidate caches / Restart` 即可
+
 ## Build `.so`
 
 TODO
